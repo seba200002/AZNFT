@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x9fF02F383B71B502B0acFf23621eeC5e8AD14697",
+  "SCAN_LINK": "https://polygonscan.com/token/0x9fF02F383B71B502B0acFf23621eeC5e8AD14697",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Azuki Girl",
+  "SYMBOL": "AG",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 1000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/azuki-girl",
+  "SHOW_BACKGROUND": true
+}
